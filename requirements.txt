@@ -6,3 +6,4 @@ PyGithub
 GitPython
 e2b-code-interpreter
 python-dotenv
+groq
