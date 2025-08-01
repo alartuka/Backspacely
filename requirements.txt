@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-pydantic
 httpx
-python-multipart
-github
-gitpython
-
+pydantic
+PyGithub
+GitPython
+e2b-code-interpreter
+python-dotenv
