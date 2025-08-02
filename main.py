@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 from datetime import datetime
 
 # initialize FastAPI app
-app = FastAPI(title="Backspace AI Coding Agent", version="1.0.0")
+app = FastAPI(title="BACKSPACELY - Backspace AI Coding Agent", version="1.0.0")
 
 # load environment variables from .env file
 load_dotenv()
