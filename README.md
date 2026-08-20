@@ -44,8 +44,5 @@ Click image below ⬇️
 - Distributed under the ***BSD 3-Clause License***. See **LICENSE** for more information.
 
 
-## Let's Connect!
-- **Portfolio**: [tuka-alsharief.vercel.app](tuka-alsharief.vercel.app)
 
-- **LinkedIn**: [/in/tukaalarbi](linkedin.com/in/tukaalarbi)
   
